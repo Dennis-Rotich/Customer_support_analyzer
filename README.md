@@ -15,5 +15,5 @@ Got the entity counts for each entity after using Counter class from collections
 
 ## Similarity
 Obtained the most similar call from the dataframe to the query, 'wrong package delivery'.
-Used spaCy's small English model with its similarity_score method to provide similarity scores to each text in the dataframe
+Used spaCy's small English model with its similarity_score method to provide similarity scores to each text in the dataframe.
 Obtained the text of the transcription with the highest similarity score
